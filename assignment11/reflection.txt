@@ -1,0 +1,7 @@
+#Task6
+1. Static visualization are fixed images such as charts and graphs that do not allow user interaction, they are useful for
+printed reports and presentations. Interactive visualization allow users  to explore data more deeply. You can zoom, hover, filter and change inputs.
+2. Dashboards are signifficant advantage for realtime data exploring.  They enable users to monitor live metrics, identify trends quickly and respond
+to changes without needing to generate new static charts.
+3. Interactive tools like Plotly and Dash enhance data communication in professional settings by making complex data more accessible and understandable.
+these tools fill the gap between data scientists and non-technical audiences by presenting data in user-frindly format.
